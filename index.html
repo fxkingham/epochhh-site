@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EPOCH</title>
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+  <!-- Poppins SemiBold -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home">
+
+
+<header class="site-header" id="siteHeader">
+  <div class="header-inner">
+
+    <div class="site-logo">
+      <a href="index.html"><img src="images/logo.png" alt="Logo" /></a>
+    </div>
+
+    <!-- MOBILE HAMBURGER -->
+    <button class="menu-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav">
+
+      <div class="dropdown">
+        <a href="#" class="portfolio-link" aria-expanded="false">Portfolio</a>
+
+        <div class="dropdown-menu">
+          <a href="outdoor.html">Outdoor</a>
+          <a href="digital.html">Digital Art</a>
+          <a href="concerts.html">Concerts / Events</a>
+        </div>
+      </div>
+
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+
+  </div>
+</header>
+
+<section class="hero"></section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const header = document.getElementById('siteHeader');
+    const toggle = document.querySelector('.menu-toggle');
+    const nav = document.getElementById('site-nav');
+
+    if (!header || !toggle || !nav) return;
+
+    toggle.addEventListener('click', () => {
+      const isOpen = header.classList.toggle('nav-open');
+      toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    });
+
+    // close after tapping a link
+    nav.addEventListener('click', (e) => {
+      if (e.target.tagName.toLowerCase() === 'a') {
+        header.classList.remove('nav-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  });
+</script>
+
+<script src="script.js"></script>
+
+</body>
+</html>
