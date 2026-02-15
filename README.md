@@ -4,7 +4,6 @@
 
 Minimal, responsive photography portfolio built from scratch.
 
-<br><br>
 
 </div>
 
