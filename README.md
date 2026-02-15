@@ -22,7 +22,7 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 
 
 
-## 👤 Contact
+## 📧 Contact
 
 [Website](https://epochhh.com)
 
