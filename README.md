@@ -30,9 +30,15 @@ Jamie Henderson - EPOCH
 
 ## 📜 License
 
-All photography and artwork © Jamie Henderson
+Copyright © Jamie Henderson
 
-Not licensed for reuse.
+All rights reserved.
+
+This repository and its contents are provided for viewing and educational purposes only.
+
+No part of this code or any images may be copied, modified, redistributed, or used in any project without explicit written permission from the author.
+
+All rights reserved.
 
 ## ⭐ Acknowledgments
 
