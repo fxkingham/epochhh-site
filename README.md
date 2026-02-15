@@ -37,8 +37,6 @@ Not licensed for reuse.
 
 ## ⭐ Acknowledgments
 
-This project uses the following services:
-
 - [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
 - [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
 - [![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)](https://formspree.io/)
