@@ -1,5 +1,5 @@
 📸 EPOCH — Photography Portfolio
-<div align="center"> <img src="images/logo.png" alt="Epoch Logo" width="140"> <br>
+<div align="center"> <img src="images/logo.png" alt="Epoch Logo" width="180"> <br>
 
 
 
