@@ -9,8 +9,6 @@ Minimal, responsive photography portfolio built from scratch.
 
 <br><br>
 
-<img src="images/preview.jpg" width="800">
-
 </div>
 
 
