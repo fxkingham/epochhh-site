@@ -1,4 +1,4 @@
-## 📸 EPOCH — Portfolio Website
+## 📸 EPOCH - Portfolio Website
 
 Minimal, responsive photography portfolio built from scratch.
 
