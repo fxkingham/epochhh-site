@@ -7,7 +7,7 @@ Minimal, responsive photography portfolio built from scratch.
 
 </div>
 
-📋 About The Project
+## 📋 About The Project
 
 EPOCH is a custom-built photography portfolio designed to showcase original photography and digital artwork with a clean, modern aesthetic.
 
