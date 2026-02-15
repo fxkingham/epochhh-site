@@ -26,4 +26,21 @@ The site was developed using vanilla HTML, CSS, and JavaScript, with GitHub Page
 - ![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
+## 👤 Author
 
+Jamie Henderson
+
+Website
+https://epochhh.com
+
+Instagram
+https://instagram.com/epochhh
+
+ArtStation
+https://artstation.com/epochhh
+
+## 📜 License
+
+All photography and artwork © Jamie Henderson
+
+Not licensed for reuse.
