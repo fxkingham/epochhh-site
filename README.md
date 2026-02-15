@@ -1,8 +1,5 @@
 ## 📸 EPOCH — Photography Portfolio
 <div align="center">
-
-<img src="images/logo.png" width="180">
-
 <br><br>
 
 Minimal, responsive photography portfolio built from scratch.
