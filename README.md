@@ -1,4 +1,4 @@
-📸 EPOCH — Photography Portfolio
+## 📸 EPOCH — Photography Portfolio
 <div align="center"> <img src="images/logo.png" alt="Epoch Logo" width="180"> <br>
 
 <br> <br>
