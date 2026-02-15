@@ -13,7 +13,9 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 
 ## 🚀 Live Website
 
-- [![Website Status](https://img.shields.io/badge/website-online-brightgreen?style=flat-square)](https://epochhh.com)
+<a href="https://epochhh.com">
+  <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fepochhh.com&up_message=ONLINE&down_message=OFFLINE&up_color=2ea44f&down_color=red">
+</a>
 
 ## 🛠️ Built With
 
@@ -41,8 +43,3 @@ Not licensed for reuse.
 - [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
 - [![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)](https://formspree.io/)
 - [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=google&logoColor=white)](https://fonts.google.com/)
-
-
-
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Ftommasobattisti.github.io%2Ftommasobattistiph%2Findex.html">
-
