@@ -774,3 +774,23 @@ body {
   justify-content: center;
 }
 
+/* Outdoor page — tablet/iPad only masonry-like layout */
+@media (min-width: 768px) and (max-width: 1100px) {
+  body.outdoor-page .gallery{
+    column-count: 2;
+    column-gap: 16px;
+    display: block; /* override grid */
+  }
+
+  body.outdoor-page .gallery-item{
+    break-inside: avoid;
+    margin-bottom: 16px;
+  }
+
+  body.outdoor-page .gallery img{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
