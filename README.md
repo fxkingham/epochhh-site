@@ -24,9 +24,9 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 
 ## 👤 Contact
 
-https://epochhh.com
+[Website](https://epochhh.com)
 
-https://instagram.com/epochhh
+[Instagram](https://instagram.com/epochhh)
 
 ## 📜 License
 
