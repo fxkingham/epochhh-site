@@ -25,9 +25,9 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 ## 📧 Contact
 Jamie Henderson - EPOCH 
 
-[Website](https://epochhh.com)
+- [Website](https://epochhh.com)
 
-[Instagram](https://instagram.com/epochhh)
+- [Instagram](https://instagram.com/epochhh)
 
 ## 📜 License
 
