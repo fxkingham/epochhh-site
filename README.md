@@ -12,8 +12,6 @@
 
 Minimal, responsive photography portfolio built from scratch.
 
-Live: https://epochhh.com
-
 </div>
 
 📋 About The Project
