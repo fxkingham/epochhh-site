@@ -16,8 +16,8 @@ The site was developed using vanilla HTML, CSS, and JavaScript, with GitHub Page
 
 
 🚀 Live Website
+[![Website](https://img.shields.io/badge/website-online-brightgreen?style=for-the-badge)](https://epochhh.com)
 
-https://epochhh.com
 
 
 🛠️ Built With
