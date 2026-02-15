@@ -22,17 +22,6 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 
 The site was developed using vanilla HTML, CSS, and JavaScript, with GitHub Pages for hosting and Cloudflare for performance and security.
 
-Key goals:
-
-Fast loading
-
-Clean minimal design
-
-Fully responsive layout
-
-Masonry-style gallery
-
-No frameworks or dependencies
 
 
 🚀 Live Website
