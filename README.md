@@ -13,7 +13,7 @@ EPOCH is a custom-built photography portfolio designed to showcase original phot
 
 ## 🚀 Live Website
 
-- [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square&labelColor=555555)](https://epochhh.com)
+- [![Live Website](https://img.shields.io/badge/Live%20Website-epochhh.com-22c55e?style=flat-square&logo=google-chrome&logoColor=white)](https://epochhh.com)
 
 ## 🛠️ Built With
 
