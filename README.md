@@ -44,5 +44,4 @@ This project uses the following services:
 - [Cloudflare](https://cloudflare.com/)
 - [Formspree](https://formspree.io/)
 - [Google Fonts](https://fonts.google.com/)
-- [Shields.io](https://shields.io/)
 
