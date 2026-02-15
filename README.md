@@ -26,9 +26,7 @@ The site was developed using vanilla HTML, CSS, and JavaScript, with GitHub Page
 - ![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
-## 👤 Author
-
-Jamie Henderson
+## 👤 Contact
 
 Website
 https://epochhh.com
@@ -36,11 +34,15 @@ https://epochhh.com
 Instagram
 https://instagram.com/epochhh
 
-ArtStation
-https://artstation.com/epochhh
-
 ## 📜 License
 
 All photography and artwork © Jamie Henderson
 
 Not licensed for reuse.
+
+## ⭐ Acknowledgments
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Hosting-222?style=flat-square&logo=github)](https://pages.github.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
+[![Formspree](https://img.shields.io/badge/Formspree-Forms-ff69b4?style=flat-square)](https://formspree.io/)
+[![Google Fonts](https://img.shields.io/badge/Google_Fonts-Typography-4285F4?style=flat-square&logo=google)](https://fonts.google.com/)
