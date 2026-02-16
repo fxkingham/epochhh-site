@@ -799,3 +799,35 @@ body {
     padding-right: 24px;
   }
 }
+
+.about-list {
+  margin-bottom: 28px;
+  padding-left: 22px;
+}
+
+.about-list li {
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+
+.text-link {
+  color: #ffffff;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.text-link:hover {
+  opacity: 0.6;
+}
+
+.error-page .about-content {
+  max-width: 1000px;
+}
+
+.error-page .about-text {
+  line-height: 1.6;
+}
+
+.error-page .about-content {
+  margin-top: 110px;
+}
